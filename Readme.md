@@ -2,10 +2,6 @@
 
 This project involves analyzing household transaction data to gain insights into spending patterns and behaviors. The analysis includes data cleaning, exploratory data analysis (EDA), clustering using K-Means, and visualization of customer segments. The project aims to provide a comprehensive understanding of household transactions and identify distinct customer segments based on their spending habits.
 
-```markdown
-# Household Transactions Analysis and Clustering
-
-This project involves analyzing household transaction data to gain insights into spending patterns and behaviors. The analysis includes data cleaning, exploratory data analysis (EDA), clustering using K-Means, and visualization of customer segments. The project aims to provide a comprehensive understanding of household transactions and identify distinct customer segments based on their spending habits.
 
 ## Project Structure
 
