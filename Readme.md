@@ -58,3 +58,13 @@ plotly
 ## Conclusion
 
 By following the steps outlined in this project, you can gain valuable insights into household transaction data and identify distinct customer segments based on their spending habits. This project demonstrates the use of data cleaning, exploratory data analysis, clustering, and visualization techniques to analyze and understand transaction data.
+
+
+## Contact
+
+- **LinkedIn:** [Rayyan Ahmed](https://www.linkedin.com/in/rayyan-ahmed9477/)
+- **Email:** rayyanahmed265@yahoo.com
+
+## Video Demonstration
+
+[Watch the video demonstration here](#)
