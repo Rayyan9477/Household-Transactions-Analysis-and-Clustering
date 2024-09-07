@@ -67,4 +67,4 @@ By following the steps outlined in this project, you can gain valuable insights 
 
 ## Video Demonstration
 
-[Watch the video demonstration here](https://github.com/Rayyan9477/Household-Transactions-Analysis-and-Clustering/blob/main/Task1.mp4)
+[Watch the video demonstration here](https://github.com/Rayyan9477/Household-Transactions-Analysis-and-Clustering/blob/main/demo.ts)
